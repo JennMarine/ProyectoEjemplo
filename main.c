@@ -6,4 +6,6 @@ int main (void){
     //git pull origin main
     //git commit -am "mensaje"
     //git push origin main
+    //git branch
+    //git checkout
 }
